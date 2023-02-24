@@ -1,3 +1,6 @@
+# Code Structure
+1. Have the data in data folder as a subdirectory to your project folder
+2. Have the embeddings folder as a subdirectory to your project folder
 # Architecture
 1. Extract features from each of the modalities
 2. Pass the features through a fusion model
