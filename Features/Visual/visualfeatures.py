@@ -243,6 +243,7 @@ if __name__ == '__main__':
     print("We are creating the dataset and dataloader")
     #deception_folder = "/home/leticia/datasets/video_temp/Clips/Deceptive"
     #truthful_folder = "/home/leticia/datasets/video_temp/Clips/Truthful"
+    
 
     #deception_folder = "/home/leticia/datasets/Real-life_Deception_Detection_2016/Clips/Deceptive"
     #truthful_folder = "/home/leticia/datasets/Real-life_Deception_Detection_2016/Clips/Truthful"
